@@ -7,3 +7,14 @@ create-react-appでひな形作成
 ```
 $ npm start
 ```
+
+デプロイ
+```
+$ npm run deploy
+```
+
+参考リンク
+* [create-react-appを使ってReactコンポーネントの素振り、GitHub Pagesへのデプロイまで - wadackel.me](https://blog.wadackel.me/2016/create-react-app/)
+
+
+
