@@ -88,13 +88,13 @@ class App extends Component {
 
   // タイマーのカウントをスタートさせる関数
   timerStart(){
-    alert("タイマースタート");
+    alert("タイマースタート!");
     this.setState({ timer_flag : true });
   }
   
   // タイマーのカウントをストップする関数
   timerStop(){
-    alert("タイマーストップ");
+    alert("タイマーストップ!");
     this.setState({ timer_flag : false });
   }
   
